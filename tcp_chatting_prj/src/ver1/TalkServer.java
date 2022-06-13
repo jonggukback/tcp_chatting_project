@@ -21,7 +21,7 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 
 public class TalkServer extends JFrame implements Runnable{
-	TalkServerThread 		tst 		= null;
+	TalkServerThread 		tst 		= nulllllllllllllllll;
 	List<TalkServerThread> 	globalList 	= null;
 	ServerSocket 			server 		= null;
 	Socket 					socket 		= null;
