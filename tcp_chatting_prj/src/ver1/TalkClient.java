@@ -23,7 +23,7 @@ import javax.swing.JTextField;
 import javax.swing.table.DefaultTableModel;
 
 public class TalkClient extends JFrame implements ActionListener {
-//오예
+//오예asd
 	////////////////통신과 관련한 전역변수 추가 시작//////////////
 	Socket 				socket 	= null;
 	ObjectOutputStream 	oos 	= null;//말 하고 싶을 때
